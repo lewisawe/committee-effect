@@ -1,0 +1,6 @@
+.env
+*.run.json
+*.task.json
+__pycache__/
+.kaggle/
+access_token
